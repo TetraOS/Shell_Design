@@ -1,6 +1,6 @@
 The shell design is the graphical user interface of your desktop environment. It consists of the panels, menus, windows, and other visual elements that users interact with. To develop the shell design, you can use the Qt toolkit, which is a popular toolkit for developing graphical user interfaces on Linux. 
 
-Here are some key concepts and components of the Qt toolkit that you may find useful for designing your shell:
+Here are some key concepts and components of the Qt toolkit that you may find useful for designing the shell:
 
 - Widgets: Qt provides a wide range of widgets that you can use to build your shell, such as buttons, labels, progress bars, and text boxes. Each widget has its own properties and signals that you can customize and handle to achieve the desired behavior.
 
